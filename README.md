@@ -1,4 +1,4 @@
-<h1>Jerai, <a href="https://linkedin.com/in/JeraiPadilla">IT Professional</a>!</h1>
+<h1>Jerai Padilla, <a href="https://linkedin.com/in/JeraiPadilla">aspiring IT Professional</a></h1>
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
