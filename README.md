@@ -4,7 +4,7 @@
 
 - <b>osTicket (Help Desk Ticketing System)</b>
   - [osTicket: Prerequisites and Installation](https://github.com/levetteit/osticket-prereqs)
-  - [osTicket: Post-Installation Configuration](https://github.com/levetteit/post-install-config)
+  
 - <b>Microsoft Azure</b>
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/levetteit/configure-ad)
   
